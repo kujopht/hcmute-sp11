@@ -1,4 +1,4 @@
-# HCM-UTE · Security Protocol 11
+# HCM-UTE · Giao Thức An Ninh 11
 
 Mini-game ôn tập Bài 11 — Những vấn đề cơ bản về bảo vệ an ninh quốc gia và giữ gìn trật tự, an toàn xã hội.
 
