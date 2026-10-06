@@ -4,4 +4,4 @@ Mini-game ôn tập Bài 11 — Những vấn đề cơ bản về bảo vệ an
 
 **Chơi:** https://kujopht.github.io/hcmute-sp11/
 
-Repo này chỉ chứa bản build tĩnh (production) của game. Dữ liệu chơi (thẻ, chip, kỷ lục) lưu trong trình duyệt của từng người.
+Repo này chỉ chứa bản build tĩnh (production) của game. Dữ liệu chơi (ai đã được gọi, kỷ lục) lưu trong trình duyệt của từng người.
